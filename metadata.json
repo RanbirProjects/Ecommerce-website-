@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina Luxe E-Commerce Pro",
+  "description": "High-end e-commerce platform featuring AI visual search, automated product imaging, and advanced admin analytics powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
